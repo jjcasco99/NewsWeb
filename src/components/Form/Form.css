@@ -1,0 +1,13 @@
+#button {
+    background-color: #5dade2;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#button:hover{
+    background-color: greenyellow;
+}
+
+.data {
+    width:20%;
+}
