@@ -1,0 +1,25 @@
+#usuario{
+    height: 17px;
+    width: 30%;
+    margin: 0.5rem;
+    border-radius: 10px;
+    outline: none;
+}
+
+#button {
+    background-color: #5dade2;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#button:hover{
+    background-color: greenyellow;
+}
+
+label{
+    color: #5dade2;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-shadow: 0.1em 0.1em black;
+    text-transform:uppercase;
+}
